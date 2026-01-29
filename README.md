@@ -86,12 +86,7 @@
     ```bash
     ./gradlew bootRun
     ```
-
-5.  **Запустите тесты (опционально):**
-    ```bash
-    ./gradlew test
-    ```
-
+    
 6.  **Играйте:** Откройте в браузере [http://localhost:8080](http://localhost:8080).
 
 ---
