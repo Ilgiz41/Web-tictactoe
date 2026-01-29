@@ -70,8 +70,8 @@
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone [https://github.com/your-username/tictactoe-online-engine.git](https://github.com/your-username/tictactoe-online-engine.git)
-    cd tictactoe-online-engine
+    git clone [https://github.com/your-username/Web-tictactoe.git](https://github.com/your-username/Web-tictactoe.git)
+    cd Web-tictactoe
     ```
 
 2.  **Настройте окружение:**
