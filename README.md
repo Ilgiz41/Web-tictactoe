@@ -70,7 +70,7 @@
 
 1.  **Клонируйте репозиторий:**
     ```bash
-    git clone [https://github.com/your-username/Web-tictactoe.git](https://github.com/your-username/Web-tictactoe.git)
+    git clone https://github.com/ilgiz41/Web-tictactoe.git
     cd Web-tictactoe
     ```
 
